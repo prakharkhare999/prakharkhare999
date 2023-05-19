@@ -1,7 +1,9 @@
 ![logo](https://github.com/prakharkhare999/prakharkhare999/blob/main/Banner2.png.png)
+<img align="right" width="400px" height="290px"  src="https://c4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-preview.jpg">
+
 <h1 align="center">Hi 👋, I'm Prakhar Kumar Khare</h1>
 <h3 align="center">I am a Student</h3>
-<img align="center" witdh="700px"  src="https://c4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-preview.jpg">
+
 - 📫 How to reach me **prakhark113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
