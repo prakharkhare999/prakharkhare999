@@ -1,3 +1,26 @@
+![logo](https://github.com/prakharkhare999/prakharkhare999/blob/main/Banner2.png.png)
+<h1 align="center">Hi 👋, I'm Prakhar Kumar Khare</h1>
+<h3 align="center">I am a Student</h3>
+<img align="center" witdh="700px"  src="https://c4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-preview.jpg">
+- 📫 How to reach me **prakhark113@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+- 🌱 I’m currently learning **Development**
+
+- 👨‍💻 All of my projects are available at [https://prakharkhare999.github.io/portfolio/](https://prakharkhare999.github.io/portfolio/)
+
+- 💬 Ask me about **Frontend Development**
+
+- 📫 How to reach me **prakhark113@gmail.com**
+
+- ⚡ Fun fact **I am a Gamer**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/prakhar.khare.353?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/prakhar_khare_00999?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prakhar-kumar-khare-41211a20a/) 
